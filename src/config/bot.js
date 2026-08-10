@@ -23,7 +23,7 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "Custom Status", // required by Discord API, not shown in the client
+        name: "150+ Commands", // required by Discord API, not shown in the client
         state: "TWG Gorilla Tag Comp Team",     // this is what people actually see
         type: 3,               // Custom
       },
